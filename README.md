@@ -24,13 +24,13 @@ It features a **minimal interface**, **dynamic image loading**, and a **"Show Mo
 > Replace these placeholders with your actual screenshots.
 
 1. **Search Page**  
-   ![Search Page](screenshot1.png)
+   ![Search Page](frist.png)
 
 2. **Search Results**  
-   ![Search Results](screenshot2.png)
+   ![Search Results](searching.png)
 
 3. **Mobile View**  
-   ![Mobile View](screenshot3.png)
+   ![Mobile View](mobile.png)
 
 ---
 
